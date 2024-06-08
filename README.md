@@ -15,6 +15,6 @@ Trabalhos sobre Power BI 1 semestre GPI 2024
  <img src="https://github.com/MatheusFuliene/Informatica-GPI/assets/162644517/90925963-9098-4394-adbe-afcd1f424eb8.jpeg" width="80%"/>
 </p>
 <p align="center">
- <img src=".jpeg" width="80%"/>
+ <img src="https://github.com/MatheusFuliene/Informatica-GPI/assets/162644517/6d52da85-1840-4459-9ba4-e5357f7a66d5.jpeg" width="80%"/>
 </p>
 
