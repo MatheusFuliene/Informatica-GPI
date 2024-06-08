@@ -2,10 +2,10 @@
 
 Projetos de Informatica de GPI 2024
 
-## Power BI
-Trabalhos sobre Power BI 1 semestre GPI 2024
+## Excel
+Trabalhos sobre Excel 1 semestre GPI 2024
 <p align="center">
- <img src=".jpeg" width="80%"/>
+ <img src="https://github.com/MatheusFuliene/Informatica-GPI/assets/162644517/f93b733c-e62b-4db9-a8fb-667a31425f35.jpeg" width="80%"/>
 </p>
 
 ### 📋 Pré-requisitos
